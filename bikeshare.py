@@ -31,7 +31,7 @@ def get_filters():
         if month in ('january','february','march','april','may','june','all'):
             break
         else:
-            print("That month does not have data.  Please enter a valid month:  ")
+            print("That month does not have data available.  Please enter a valid month (January - June):  ")
             continue
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
