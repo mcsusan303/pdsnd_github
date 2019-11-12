@@ -5,7 +5,7 @@ This project was created on November 11, 2019.
 Bikeshare Data Project
 
 ### Description
-Describe what your project is about and what it does
+This file is an interactive Python program which accepts several user inputs and returns bikeshare information collected from Chicago, New York City, or Washington.
 
 ### Files used
 Include the files used
