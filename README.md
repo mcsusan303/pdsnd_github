@@ -9,7 +9,11 @@ This file is an interactive Python program which accepts several user inputs and
 
 ### Files used
 The following files are needed for this project:
+
+_Program files_
 * bikeshare.py
+
+_Data files_
 * chicago.csv
 * new_york_city.csv
 * washington.csv
