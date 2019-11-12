@@ -8,7 +8,11 @@ Bikeshare Data Project
 This file is an interactive Python program which accepts several user inputs and returns bikeshare information collected from Chicago, New York City, or Washington.
 
 ### Files used
-Include the files used
+The following files are needed for this project:
+* bikeshare.py
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
